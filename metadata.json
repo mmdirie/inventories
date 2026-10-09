@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster IMS",
+  "description": "Enterprise-grade standalone Inventory Management System for single business operations: multi-warehouse stock tracking, POS, purchases, sales, debts, ledger, and financials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
